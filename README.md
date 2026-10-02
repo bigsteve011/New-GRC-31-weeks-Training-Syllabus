@@ -29,62 +29,23 @@ The original program packed 21 sessions into 7 weeks (roughly 3 sessions/week, 1
 
 ## 2. Roadmap at a Glance
 
-```mermaid
-flowchart LR
-    subgraph P1["Phase I · Wks 1-4<br/>Foundations & Frameworks"]
-        direction TB
-        A1[Wk1 GRC Vocabulary & CIA Triad]
-        A2[Wk2 Governance Structures]
-        A3[Wk3 NIST CSF 2.0 & 800-53]
-        A4[Wk4 ISO 27001 · CIS v8.1 · SOC 2 · COBIT]
-    end
-    subgraph P2["Phase II · Wks 5-9<br/>Risk Management"]
-        direction TB
-        B1[Wk5 Risk Fundamentals]
-        B2[Wk6 Qualitative Assessment]
-        B3[Wk7 Quantitative Assessment / FAIR]
-        B4[Wk8 Treatment & Control Selection]
-        B5[Wk9 Risk Register & Monitoring]
-    end
-    subgraph P3["Phase III · Wks 10-14<br/>Compliance & Regulation"]
-        direction TB
-        C1[Wk10 Control Frameworks Deep Dive]
-        C2[Wk11 GDPR & CCPA/CPRA]
-        C3[Wk12 HIPAA & GLBA]
-        C4[Wk13 SOX & PCI DSS v4.0.1]
-        C5[Wk14 Mapping & Gap Assessment]
-    end
-    subgraph P4["Phase IV · Wks 15-18<br/>Audits & Reporting"]
-        direction TB
-        D1[Wk15 Audit Fundamentals]
-        D2[Wk16 Findings & Evidence]
-        D3[Wk17 Remediation & Reporting]
-        D4[Wk18 Mock Audit Practicum]
-    end
-    subgraph P5["Phase V · Wks 19-22<br/>Asset & Identity"]
-        direction TB
-        E1[Wk19 Asset Management]
-        E2[Wk20 IAM Core Concepts]
-        E3[Wk21 IAM Protocols & PAM]
-        E4[Wk22 IAM Lifecycle & Governance]
-    end
-    subgraph P6["Phase VI · Wks 23-27<br/>Protect/Respond/Recover"]
-        direction TB
-        F1[Wk23 Security Awareness]
-        F2[Wk24 DLP]
-        F3[Wk25 Incident Response Foundations]
-        F4[Wk26 IR Runbooks & Tabletop]
-        F5[Wk27 Third-Party Risk]
-    end
-    subgraph P7["Phase VII · Wks 28-31<br/>Capstone & Career"]
-        direction TB
-        G1[Wk28 Capstone Build I]
-        G2[Wk29 Capstone Build II]
-        G3[Wk30 Career Launch]
-        G4[Wk31 Interview Prep & 90-Day Plan]
-    end
-    P1 --> P2 --> P3 --> P4 --> P5 --> P6 --> P7
-```
+<p align="center">
+
+**🧭 Foundations → ⚖️ Risk → 📜 Compliance → 🔍 Audit → 🪪 Identity → 🛡️ Operations → 🎓 Capstone & Career**
+
+</p>
+
+| Phase | Weeks | Focus | Weekly Topics |
+|:---:|:---:|---|---|
+| 🧭<br>**I** | 1–4 | **Foundations & Frameworks** | [**Wk 1**](Phase-I-GRC-Foundations/Week-01-GRC-Vocabulary-the-CIA-Triad-Policy-Hierarchy/) · GRC Vocabulary & CIA Triad<br>[**Wk 2**](Phase-I-GRC-Foundations/Week-02-Governance-Structures/) · Governance Structures<br>[**Wk 3**](Phase-I-GRC-Foundations/Week-03-Framework-Landscape-I/) · NIST CSF 2.0 & 800-53<br>[**Wk 4**](Phase-I-GRC-Foundations/Week-04-Framework-Landscape-II/) · ISO 27001 · CIS v8.1 · SOC 2 · COBIT |
+| ⚖️<br>**II** | 5–9 | **Risk Management** | [**Wk 5**](Phase-II-Risk-Management/Week-05-Risk-Fundamentals-Governing-Standards/) · Risk Fundamentals<br>[**Wk 6**](Phase-II-Risk-Management/Week-06-Qualitative-Risk-Assessment/) · Qualitative Assessment<br>[**Wk 7**](Phase-II-Risk-Management/Week-07-Quantitative-Risk-Assessment/) · Quantitative Assessment / FAIR<br>[**Wk 8**](Phase-II-Risk-Management/Week-08-Risk-Treatment-Control-Selection/) · Treatment & Control Selection<br>[**Wk 9**](Phase-II-Risk-Management/Week-09-The-Risk-Register-Continuous-Monitoring/) · Risk Register & Monitoring |
+| 📜<br>**III** | 10–14 | **Compliance & Regulation** | [**Wk 10**](Phase-III-Compliance-and-Regulation/Week-10-Control-Frameworks-in-Depth/) · Control Frameworks Deep Dive<br>[**Wk 11**](Phase-III-Compliance-and-Regulation/Week-11-Data-Privacy-Regulations-GDPR-CCPA-CPRA/) · GDPR & CCPA/CPRA<br>[**Wk 12**](Phase-III-Compliance-and-Regulation/Week-12-Sector-Specific-Regulations-HIPAA-GLBA/) · HIPAA & GLBA<br>[**Wk 13**](Phase-III-Compliance-and-Regulation/Week-13-Financial-Payment-Regulations/) · SOX & PCI DSS v4.0.1<br>[**Wk 14**](Phase-III-Compliance-and-Regulation/Week-14-Mapping-Gap-Assessment/) · Mapping & Gap Assessment |
+| 🔍<br>**IV** | 15–18 | **Audits & Reporting** | [**Wk 15**](Phase-IV-Audits-and-Reporting/Week-15-Audit-Fundamentals/) · Audit Fundamentals<br>[**Wk 16**](Phase-IV-Audits-and-Reporting/Week-16-Findings-Evidence/) · Findings & Evidence<br>[**Wk 17**](Phase-IV-Audits-and-Reporting/Week-17-Remediation-Planning-Audit-Reporting/) · Remediation & Reporting<br>[**Wk 18**](Phase-IV-Audits-and-Reporting/Week-18-Full-Mock-Audit-Practicum/) · Mock Audit Practicum |
+| 🪪<br>**V** | 19–22 | **Asset & Identity** | [**Wk 19**](Phase-V-Asset-and-Identity/Week-19-Asset-Management/) · Asset Management<br>[**Wk 20**](Phase-V-Asset-and-Identity/Week-20-IAM-Core-Concepts/) · IAM Core Concepts<br>[**Wk 21**](Phase-V-Asset-and-Identity/Week-21-IAM-Technical-Protocols-Privileged-Access/) · IAM Protocols & PAM<br>[**Wk 22**](Phase-V-Asset-and-Identity/Week-22-IAM-Lifecycle-Governance/) · IAM Lifecycle & Governance |
+| 🛡️<br>**VI** | 23–27 | **Protect / Respond / Recover** | [**Wk 23**](Phase-VI-Protect-Respond-Recover/Week-23-Security-Awareness-Human-Risk/) · Security Awareness<br>[**Wk 24**](Phase-VI-Protect-Respond-Recover/Week-24-Data-Loss-Prevention-DLP/) · Data Loss Prevention<br>[**Wk 25**](Phase-VI-Protect-Respond-Recover/Week-25-Incident-Response-Foundations/) · Incident Response Foundations<br>[**Wk 26**](Phase-VI-Protect-Respond-Recover/Week-26-IR-Runbooks-Communication-Tabletop-Exercises/) · IR Runbooks & Tabletop<br>[**Wk 27**](Phase-VI-Protect-Respond-Recover/Week-27-Third-Party-Vendor-Risk-Management/) · Third-Party Risk |
+| 🎓<br>**VII** | 28–31 | **Capstone & Career** | [**Wk 28**](Phase-VII-Capstone-and-Career/Week-28-Capstone-Program-Build-I-GOVERN-IDENTIFY/) · Capstone Build I<br>[**Wk 29**](Phase-VII-Capstone-and-Career/Week-29-Capstone-Program-Build-II/) · Capstone Build II<br>[**Wk 30**](Phase-VII-Capstone-and-Career/Week-30-GRC-Career-Launch/) · Career Launch<br>[**Wk 31**](Phase-VII-Capstone-and-Career/Week-31-Interview-Prep-the-90-Day-Post-Course-Plan/) · Interview Prep & 90-Day Plan |
+
+> 💡 Click any week to open its folder, topics, and slide deck.
 
 ---
 
