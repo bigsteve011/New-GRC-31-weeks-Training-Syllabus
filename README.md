@@ -378,3 +378,43 @@ flowchart LR
 | 29 | VII | Capstone Build II: PROTECT–RECOVER | W7-Day43 |
 | 30 | VII | GRC Career Launch | W7-Day44 |
 | 31 | VII | Interview Prep & 90-Day Post-Course Plan | W7-Day45 |
+
+---
+
+## 13. Course Materials by Week
+
+Each week has its own folder (grouped by phase) with a README of that week's topics and links to its session slide deck. Decks that cover more than one week are stored once, in the first week they apply to, and linked from the others.
+
+| Wk | Folder | Slide deck |
+|---|---|---|
+| 1 | [Week-01-GRC-Vocabulary-the-CIA-Triad-Policy-Hierarchy](Phase-I-GRC-Foundations/Week-01-GRC-Vocabulary-the-CIA-Triad-Policy-Hierarchy/) | W1-A_GRC_Foundations_Core_Concepts.pptx |
+| 2 | [Week-02-Governance-Structures](Phase-I-GRC-Foundations/Week-02-Governance-Structures/) | W1-B_Governance_Structures.pptx |
+| 3 | [Week-03-Framework-Landscape-I](Phase-I-GRC-Foundations/Week-03-Framework-Landscape-I/) | W1-C_Framework_Landscape.pptx |
+| 4 | [Week-04-Framework-Landscape-II](Phase-I-GRC-Foundations/Week-04-Framework-Landscape-II/) | W1-C_Framework_Landscape.pptx |
+| 5 | [Week-05-Risk-Fundamentals-Governing-Standards](Phase-II-Risk-Management/Week-05-Risk-Fundamentals-Governing-Standards/) | W2-A_Risk_Fundamentals.pptx |
+| 6 | [Week-06-Qualitative-Risk-Assessment](Phase-II-Risk-Management/Week-06-Qualitative-Risk-Assessment/) | W2-B_Assessing_Risk.pptx |
+| 7 | [Week-07-Quantitative-Risk-Assessment](Phase-II-Risk-Management/Week-07-Quantitative-Risk-Assessment/) | W2-B_Assessing_Risk.pptx |
+| 8 | [Week-08-Risk-Treatment-Control-Selection](Phase-II-Risk-Management/Week-08-Risk-Treatment-Control-Selection/) | W2-C_Treating_Tracking_Risk.pptx |
+| 9 | [Week-09-The-Risk-Register-Continuous-Monitoring](Phase-II-Risk-Management/Week-09-The-Risk-Register-Continuous-Monitoring/) | W2-C_Treating_Tracking_Risk.pptx |
+| 10 | [Week-10-Control-Frameworks-in-Depth](Phase-III-Compliance-and-Regulation/Week-10-Control-Frameworks-in-Depth/) | W3-A_Control_Frameworks.pptx |
+| 11 | [Week-11-Data-Privacy-Regulations-GDPR-CCPA-CPRA](Phase-III-Compliance-and-Regulation/Week-11-Data-Privacy-Regulations-GDPR-CCPA-CPRA/) | W3-B_Laws_and_Regulations.pptx |
+| 12 | [Week-12-Sector-Specific-Regulations-HIPAA-GLBA](Phase-III-Compliance-and-Regulation/Week-12-Sector-Specific-Regulations-HIPAA-GLBA/) | W3-B_Laws_and_Regulations.pptx |
+| 13 | [Week-13-Financial-Payment-Regulations](Phase-III-Compliance-and-Regulation/Week-13-Financial-Payment-Regulations/) | W3-B_Laws_and_Regulations.pptx |
+| 14 | [Week-14-Mapping-Gap-Assessment](Phase-III-Compliance-and-Regulation/Week-14-Mapping-Gap-Assessment/) | W3-C_Mapping_and_Gap_Assessment.pptx |
+| 15 | [Week-15-Audit-Fundamentals](Phase-IV-Audits-and-Reporting/Week-15-Audit-Fundamentals/) | W4-A_Audit_Fundamentals.pptx |
+| 16 | [Week-16-Findings-Evidence](Phase-IV-Audits-and-Reporting/Week-16-Findings-Evidence/) | W4-B_Findings_and_Evidence.pptx |
+| 17 | [Week-17-Remediation-Planning-Audit-Reporting](Phase-IV-Audits-and-Reporting/Week-17-Remediation-Planning-Audit-Reporting/) | W4-C_Audit_Report_and_Mock_Audit.pptx |
+| 18 | [Week-18-Full-Mock-Audit-Practicum](Phase-IV-Audits-and-Reporting/Week-18-Full-Mock-Audit-Practicum/) | W4-C_Audit_Report_and_Mock_Audit.pptx |
+| 19 | [Week-19-Asset-Management](Phase-V-Asset-and-Identity/Week-19-Asset-Management/) | W5-A_Asset_Management.pptx |
+| 20 | [Week-20-IAM-Core-Concepts](Phase-V-Asset-and-Identity/Week-20-IAM-Core-Concepts/) | W5-B_IAM_Core_Concepts.pptx |
+| 21 | [Week-21-IAM-Technical-Protocols-Privileged-Access](Phase-V-Asset-and-Identity/Week-21-IAM-Technical-Protocols-Privileged-Access/) | W5-B_IAM_Core_Concepts.pptx |
+| 22 | [Week-22-IAM-Lifecycle-Governance](Phase-V-Asset-and-Identity/Week-22-IAM-Lifecycle-Governance/) | W5-C_IAM_Lifecycle_Governance.pptx |
+| 23 | [Week-23-Security-Awareness-Human-Risk](Phase-VI-Protect-Respond-Recover/Week-23-Security-Awareness-Human-Risk/) | W6-A_Security_Awareness_and_DLP.pptx |
+| 24 | [Week-24-Data-Loss-Prevention-DLP](Phase-VI-Protect-Respond-Recover/Week-24-Data-Loss-Prevention-DLP/) | W6-A_Security_Awareness_and_DLP.pptx |
+| 25 | [Week-25-Incident-Response-Foundations](Phase-VI-Protect-Respond-Recover/Week-25-Incident-Response-Foundations/) | W6-B_Incident_Response.pptx |
+| 26 | [Week-26-IR-Runbooks-Communication-Tabletop-Exercises](Phase-VI-Protect-Respond-Recover/Week-26-IR-Runbooks-Communication-Tabletop-Exercises/) | W6-B_Incident_Response.pptx |
+| 27 | [Week-27-Third-Party-Vendor-Risk-Management](Phase-VI-Protect-Respond-Recover/Week-27-Third-Party-Vendor-Risk-Management/) | W6-C_Third_Party_Risk.pptx |
+| 28 | [Week-28-Capstone-Program-Build-I-GOVERN-IDENTIFY](Phase-VII-Capstone-and-Career/Week-28-Capstone-Program-Build-I-GOVERN-IDENTIFY/) | W7-Day43_Capstone_Program_Build.pptx |
+| 29 | [Week-29-Capstone-Program-Build-II](Phase-VII-Capstone-and-Career/Week-29-Capstone-Program-Build-II/) | W7-Day43_Capstone_Program_Build.pptx |
+| 30 | [Week-30-GRC-Career-Launch](Phase-VII-Capstone-and-Career/Week-30-GRC-Career-Launch/) | W7-Day44_GRC_Career_Launch.pptx |
+| 31 | [Week-31-Interview-Prep-the-90-Day-Post-Course-Plan](Phase-VII-Capstone-and-Career/Week-31-Interview-Prep-the-90-Day-Post-Course-Plan/) | W7-Day45_Interview_Prep_90_Day_Plan.pptx |
